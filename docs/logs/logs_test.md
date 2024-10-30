@@ -53,4 +53,4 @@ N/A
 
 ## Overview:
 
-The team focused on [Summary of work done]. The Kanban Board has been populated with user stories and tasks, milestones have been added, and the dashboard visuals creation has been completed. The next cycle will focus on [Tasks for the next cycle].
+This cycle we worked on improving each improvement from the list of improvements that needed to be improved.
