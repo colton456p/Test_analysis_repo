@@ -49,7 +49,7 @@
 
 ## Test Report / Testing Status:
 
-- ![docs/weekly logs/Burn Up Charts/[Burn Up Chart Image]](path/to/burnupchart.png)
+
 N/A
 
 ## Overview:
