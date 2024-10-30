@@ -36,15 +36,6 @@
 
 - ![docs/weekly logs/Burn Up Charts/[Burn Up Chart Image]](path/to/burnupchart.png)
 
-## Times for Team/Individual:
-
-| Team Member | Logged Hours |
-| ----------- | ------------ |
-| [Name]      | [Hours]      |
-| [Name]      | [Hours]      |
-| [Name]      | [Hours]      |
-
-- ![docs/weekly logs/Clockify/[Time Tracking Image]](path/to/timetracking.png)
 
 ## Completed Tasks:
 
