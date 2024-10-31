@@ -47,10 +47,6 @@
 | 1   | fantastic description  | Colton |
 | 2   | fantastic description  | Colton  |
 
-## Test Report / Testing Status:
-
-
-N/A
 
 ## Overview:
 
