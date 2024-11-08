@@ -1,5 +1,9 @@
 # Weekly Team Log
 
+## Date Range:
+
+- June 5th - June 15th
+
 
 ## Features in the Project Plan Cycle:
 
