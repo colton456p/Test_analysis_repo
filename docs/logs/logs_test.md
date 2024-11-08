@@ -45,6 +45,3 @@
 | 2   | fantastic description  | Colton  |
 
 
-## Overview:
-
-This cycle we worked on improving each improvement from the list of improvements that needed to be improved.
