@@ -1,8 +1,5 @@
 # Weekly Team Log
 
-## Date Range:
-
-- June 14th 2024 - June 24th 2024
 
 ## Features in the Project Plan Cycle:
 
