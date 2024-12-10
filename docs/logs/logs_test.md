@@ -8,9 +8,6 @@
 | 2  | fantastic description | 5    | colton  |
 
 
-
-
-
 ## Features in the Project Plan Cycle:
 
 - Great addings
@@ -18,6 +15,12 @@
 - Backend
 - Tailwind
 - docker
+- New Stuff
+- New stuff 2
+
+## Date Range:
+
+- June 5th - June 15th
 
 ## Associated Tasks from Project Board:
 
@@ -27,13 +30,6 @@
 | 2   | fantastic description | 1| colton  | in progress |
 
 
-## In Progress Tasks/ To do:
-
-| Task ID | Description        | Assigned To |
-| ------- | ------------------ | ----------- |
-| 1   | fantastic description  | Colton |
-| 2   | fantastic description  | Colton  |
-
 ## Completed Tasks:
 
 | Task ID | Description        | Completed By |
@@ -42,13 +38,7 @@
 | 2   | fantastic description  | Colton   |
 
 
-## Test Report / Testing Status:
 
-Testing has been fully complete and is shown here!
-
-## Date Range:
-
-- June 5th - June 15th
 
 ## Overview:
 
